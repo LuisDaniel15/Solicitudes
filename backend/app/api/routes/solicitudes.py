@@ -111,3 +111,15 @@ def obtener_estado(solicitud_id: int, db: Session = Depends(get_db)):
         "codigo": solicitud.codigo,
         "estado": solicitud.estado_actual
     }
+
+from app.rag.rag_service import buscar_respuesta
+
+@router.post("/chat")
+def chat_rag(data: dict):
+    pregunta = data["mensaje"]
+
+    respuesta = buscar_respuesta(pregunta)
+
+    return {
+        "respuesta": respuesta
+    }

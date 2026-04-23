@@ -1,6 +1,119 @@
-Para solicitar homologación, el estudiante debe presentar:
-- Certificado de notas
-- Contenido programático
-- Formato de solicitud
+REGLAMENTO ACADÉMICO - SOLICITUDES ESTUDIANTILES
 
-El tiempo de respuesta es de 5 a 10 días hábiles.
+--------------------------------------------------
+HOMOLOGACIÓN DE MATERIAS
+
+La homologación es el proceso mediante el cual un estudiante solicita el reconocimiento de asignaturas cursadas previamente en otra institución.
+
+Requisitos:
+- Certificado oficial de notas
+- Contenido programático de las asignaturas
+- Formato de solicitud diligenciado
+- Documento de identidad
+
+Condiciones:
+- La asignatura debe tener al menos un 70% de similitud en contenidos
+- Debe haber sido aprobada con una nota mínima de 3.0
+
+Tiempo de respuesta:
+- Entre 5 y 10 días hábiles
+
+--------------------------------------------------
+CERTIFICADOS ACADÉMICOS
+
+Los certificados académicos son documentos oficiales que acreditan el historial académico del estudiante.
+
+Tipos de certificados:
+- Certificado de notas
+- Certificado de estudio
+- Certificado de matrícula
+
+Requisitos:
+- Estar activo o egresado
+- Realizar el pago correspondiente
+- Solicitud a través del sistema
+
+Tiempo de entrega:
+- Entre 2 y 5 días hábiles
+
+--------------------------------------------------
+CANCELACIÓN DE MATERIAS
+
+La cancelación permite al estudiante retirar una asignatura del periodo académico.
+
+Requisitos:
+- Solicitud dentro de las fechas establecidas
+- No afectar el mínimo de créditos exigidos
+- Justificación válida (opcional)
+
+Condiciones:
+- Puede requerir aprobación del coordinador académico
+
+Tiempo de respuesta:
+- Entre 3 y 7 días hábiles
+
+--------------------------------------------------
+BECAS Y APOYOS ECONÓMICOS
+
+Las becas son ayudas económicas otorgadas a estudiantes con buen rendimiento académico o necesidades económicas.
+
+Requisitos:
+- Promedio académico mínimo de 4.0
+- Documentación socioeconómica
+- Formulario de solicitud
+
+Tipos:
+- Becas por mérito académico
+- Becas socioeconómicas
+
+Tiempo de respuesta:
+- Entre 10 y 20 días hábiles
+
+--------------------------------------------------
+SOLICITUDES GENERALES
+
+Las solicitudes académicas pueden incluir:
+- Homologaciones
+- Certificados
+- Cancelaciones
+- Becas
+
+Estados de una solicitud:
+- Radicada
+- En revisión
+- Aprobada
+- Rechazada
+
+Cada solicitud cuenta con:
+- Código único
+- Fecha de creación
+- Historial de cambios
+
+--------------------------------------------------
+TIEMPOS DE RESPUESTA GENERALES
+
+- Homologaciones: 5 a 10 días hábiles
+- Certificados: 2 a 5 días hábiles
+- Cancelaciones: 3 a 7 días hábiles
+- Becas: 10 a 20 días hábiles
+
+--------------------------------------------------
+OBSERVACIONES
+
+- Todas las solicitudes deben realizarse a través del sistema
+- El estudiante puede consultar el estado en cualquier momento
+- Las notificaciones se envían por Telegram
+- Documentos incompletos pueden generar rechazo automático
+
+--------------------------------------------------
+VALIDACIÓN DE DOCUMENTOS
+
+Los documentos enviados deben:
+- Estar legibles
+- Contener firma (si aplica)
+- Tener sellos oficiales (si aplica)
+
+El sistema puede validar automáticamente estos elementos mediante visión por computadora.
+
+--------------------------------------------------
+FIN DEL REGLAMENTO
